@@ -1,0 +1,5 @@
+{
+  "name": "Sheet to Trip",
+  "description": "Instantly convert your Google Sheets travel plans into a beautiful, interactive itinerary using Gemini AI.",
+  "requestFramePermissions": []
+}
